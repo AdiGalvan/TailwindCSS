@@ -1,0 +1,3 @@
+@tailwind base; /* crear directivas */
+@tailwind components;
+@tailwind utilities;

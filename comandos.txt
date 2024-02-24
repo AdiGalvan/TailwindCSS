@@ -1,0 +1,8 @@
+INSTALACIÓN Y CONFIG MANUAL
+Se elimina el cdn del archivo index.html
+
+Desde la terminal
+-Npm init -y//para generar un package.json que inicializa el proyecto, los paquetes y scripts
+-npm install -D tailwindcss// instalación de tailwindcss
+FALTA ACTUALIZAR NPM
+-crear archivo css desde visual
