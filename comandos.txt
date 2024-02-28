@@ -6,3 +6,7 @@ Desde la terminal
 -npm install -D tailwindcss// instalación de tailwindcss
 FALTA ACTUALIZAR NPM
 -crear archivo css desde visual
+npx tailwind init// crear archivo de config para los css de tailwind
+npx tailwindcss -i tailwind.css -o styles.css // para actualizacion manual
+-npx tailwindcss -i tailwind.css -o styles.css –minify// el –minify pone los comandos en una sola línea de código
+- npm i -D vite postcss autoprefixer// instalación de vite en el proyecto para que el haga la actualización de los estilos
